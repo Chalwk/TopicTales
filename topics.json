@@ -1,0 +1,526 @@
+[
+    {
+        "synonyms": [
+            "Accomplishment",
+            "Success",
+            "Triumph"
+        ],
+        "topic": "Achievement"
+    },
+    {
+        "synonyms": [
+            "Journey",
+            "Exploration",
+            "Excitement"
+        ],
+        "topic": "Adventure"
+    },
+    {
+        "synonyms": [
+            "Drive",
+            "Passion",
+            "Determination"
+        ],
+        "topic": "Ambition"
+    },
+    {
+        "synonyms": [
+            "Wildlife",
+            "Fauna",
+            "Creatures"
+        ],
+        "topic": "Animals"
+    },
+    {
+        "synonyms": [
+            "Creativity",
+            "Expression",
+            "Aesthetics"
+        ],
+        "topic": "Art"
+    },
+    {
+        "synonyms": [
+            "Elegance",
+            "Grace",
+            "Charm"
+        ],
+        "topic": "Beauty"
+    },
+    {
+        "synonyms": [
+            "Test",
+            "Obstacle",
+            "Hurdle"
+        ],
+        "topic": "Challenge"
+    },
+    {
+        "synonyms": [
+            "Transformation",
+            "Metamorphosis",
+            "Evolution"
+        ],
+        "topic": "Change"
+    },
+    {
+        "synonyms": [
+            "Humor",
+            "Wit",
+            "Laughter"
+        ],
+        "topic": "Comedy"
+    },
+    {
+        "synonyms": [
+            "Bravery",
+            "Valor",
+            "Fortitude"
+        ],
+        "topic": "Courage"
+    },
+    {
+        "synonyms": [
+            "Innovation",
+            "Imagination",
+            "Inspiration"
+        ],
+        "topic": "Creativity"
+    },
+    {
+        "synonyms": [
+            "Traditions",
+            "Customs",
+            "Heritage"
+        ],
+        "topic": "Culture"
+    },
+    {
+        "synonyms": [
+            "Inquisitiveness",
+            "Interest",
+            "Wonder"
+        ],
+        "topic": "Curiosity"
+    },
+    {
+        "synonyms": [
+            "Exploration",
+            "Revelation",
+            "Finding"
+        ],
+        "topic": "Discovery"
+    },
+    {
+        "synonyms": [
+            "Aspiration",
+            "Goal",
+            "Hope"
+        ],
+        "topic": "Dream"
+    },
+    {
+        "synonyms": [
+            "Imagination",
+            "Fantasy",
+            "Desires"
+        ],
+        "topic": "Dreams"
+    },
+    {
+        "synonyms": [
+            "Learning",
+            "Knowledge",
+            "Enlightenment"
+        ],
+        "topic": "Education"
+    },
+    {
+        "synonyms": [
+            "Feelings",
+            "Sentiments",
+            "Mood"
+        ],
+        "topic": "Emotions"
+    },
+    {
+        "synonyms": [
+            "Discovery",
+            "Investigation",
+            "Journey"
+        ],
+        "topic": "Exploration"
+    },
+    {
+        "synonyms": [
+            "Relatives",
+            "Kin",
+            "Loved Ones"
+        ],
+        "topic": "Family"
+    },
+    {
+        "synonyms": [
+            "Imagination",
+            "Dreams",
+            "Fiction"
+        ],
+        "topic": "Fantasy"
+    },
+    {
+        "synonyms": [
+            "Style",
+            "Trends",
+            "Clothing"
+        ],
+        "topic": "Fashion"
+    },
+    {
+        "synonyms": [
+            "Cuisine",
+            "Dishes",
+            "Meals"
+        ],
+        "topic": "Food"
+    },
+    {
+        "synonyms": [
+            "Liberty",
+            "Independence",
+            "Autonomy"
+        ],
+        "topic": "Freedom"
+    },
+    {
+        "synonyms": [
+            "Companionship",
+            "Camaraderie",
+            "Alliance"
+        ],
+        "topic": "Friendship"
+    },
+    {
+        "synonyms": [
+            "Tomorrow",
+            "What Lies Ahead",
+            "Prospects"
+        ],
+        "topic": "Future"
+    },
+    {
+        "synonyms": [
+            "Play",
+            "Amusement",
+            "Recreation"
+        ],
+        "topic": "Games"
+    },
+    {
+        "synonyms": [
+            "Development",
+            "Progress",
+            "Improvement"
+        ],
+        "topic": "Growth"
+    },
+    {
+        "synonyms": [
+            "Balance",
+            "Unity",
+            "Coordination"
+        ],
+        "topic": "Harmony"
+    },
+    {
+        "synonyms": [
+            "Past",
+            "Chronicles",
+            "Record"
+        ],
+        "topic": "History"
+    },
+    {
+        "synonyms": [
+            "Abode",
+            "Dwelling",
+            "Residence"
+        ],
+        "topic": "Home"
+    },
+    {
+        "synonyms": [
+            "Optimism",
+            "Aspiration",
+            "Expectation"
+        ],
+        "topic": "Hope"
+    },
+    {
+        "synonyms": [
+            "Mirage",
+            "Trick",
+            "Delusion"
+        ],
+        "topic": "Illusion"
+    },
+    {
+        "synonyms": [
+            "Creativity",
+            "Fantasy",
+            "Innovation"
+        ],
+        "topic": "Imagination"
+    },
+    {
+        "synonyms": [
+            "Creativity",
+            "Motivation",
+            "Influence"
+        ],
+        "topic": "Inspiration"
+    },
+    {
+        "synonyms": [
+            "Smartness",
+            "Cleverness",
+            "Wisdom"
+        ],
+        "topic": "Intelligence"
+    },
+    {
+        "synonyms": [
+            "Happiness",
+            "Delight",
+            "Elation"
+        ],
+        "topic": "Joy"
+    },
+    {
+        "synonyms": [
+            "Information",
+            "Wisdom",
+            "Learning"
+        ],
+        "topic": "Knowledge"
+    },
+    {
+        "synonyms": [
+            "Existence",
+            "Living",
+            "Being"
+        ],
+        "topic": "Life"
+    },
+    {
+        "synonyms": [
+            "Affection",
+            "Passion",
+            "Devotion"
+        ],
+        "topic": "Love"
+    },
+    {
+        "synonyms": [
+            "Enchantment",
+            "Sorcery",
+            "Illusion"
+        ],
+        "topic": "Magic"
+    },
+    {
+        "synonyms": [
+            "Brain",
+            "Intellect",
+            "Thoughts"
+        ],
+        "topic": "Mind"
+    },
+    {
+        "synonyms": [
+            "Melody",
+            "Harmony",
+            "Rhythm"
+        ],
+        "topic": "Music"
+    },
+    {
+        "synonyms": [
+            "Environment",
+            "Outdoors",
+            "Wilderness"
+        ],
+        "topic": "Nature"
+    },
+    {
+        "synonyms": [
+            "Tranquility",
+            "Calm",
+            "Serenity"
+        ],
+        "topic": "Peace"
+    },
+    {
+        "synonyms": [
+            "Verse",
+            "Rhyme",
+            "Literature"
+        ],
+        "topic": "Poetry"
+    },
+    {
+        "synonyms": [
+            "Strength",
+            "Authority",
+            "Control"
+        ],
+        "topic": "Power"
+    },
+    {
+        "synonyms": [
+            "Goal",
+            "Objective",
+            "Intention"
+        ],
+        "topic": "Purpose"
+    },
+    {
+        "synonyms": [
+            "Truth",
+            "Actuality",
+            "Existence"
+        ],
+        "topic": "Reality"
+    },
+    {
+        "synonyms": [
+            "Connections",
+            "Bonds",
+            "Ties"
+        ],
+        "topic": "Relationships"
+    },
+    {
+        "synonyms": [
+            "Knowledge",
+            "Discovery",
+            "Study"
+        ],
+        "topic": "Science"
+    },
+    {
+        "synonyms": [
+            "Identity",
+            "Ego",
+            "Personality"
+        ],
+        "topic": "Self"
+    },
+    {
+        "synonyms": [
+            "Plainness",
+            "Clarity",
+            "Ease"
+        ],
+        "topic": "Simplicity"
+    },
+    {
+        "synonyms": [
+            "Universe",
+            "Cosmos",
+            "Galaxy"
+        ],
+        "topic": "Space"
+    },
+    {
+        "synonyms": [
+            "Religion",
+            "Faith",
+            "Belief"
+        ],
+        "topic": "Spirituality"
+    },
+    {
+        "synonyms": [
+            "Power",
+            "Force",
+            "Might"
+        ],
+        "topic": "Strength"
+    },
+    {
+        "synonyms": [
+            "Achievement",
+            "Victory",
+            "Triumph"
+        ],
+        "topic": "Success"
+    },
+    {
+        "synonyms": [
+            "Clock",
+            "Hours",
+            "Minutes"
+        ],
+        "topic": "Time"
+    },
+    {
+        "synonyms": [
+            "Custom",
+            "Heritage",
+            "Culture"
+        ],
+        "topic": "Tradition"
+    },
+    {
+        "synonyms": [
+            "Change",
+            "Metamorphosis",
+            "Evolution"
+        ],
+        "topic": "Transformation"
+    },
+    {
+        "synonyms": [
+            "Journey",
+            "Adventure",
+            "Trip"
+        ],
+        "topic": "Travel"
+    },
+    {
+        "synonyms": [
+            "Confidence",
+            "Belief",
+            "Faith"
+        ],
+        "topic": "Trust"
+    },
+    {
+        "synonyms": [
+            "Fact",
+            "Reality",
+            "Honesty"
+        ],
+        "topic": "Truth"
+    },
+    {
+        "synonyms": [
+            "Knowledge",
+            "Insight",
+            "Understanding"
+        ],
+        "topic": "Wisdom"
+    },
+    {
+        "synonyms": [
+            "Job",
+            "Employment",
+            "Labor"
+        ],
+        "topic": "Work"
+    },
+    {
+        "synonyms": [],
+        "topic": "a_random_topic"
+    }
+]
