@@ -8,8 +8,8 @@ import java.util.List;
  */
 public class Topic {
 
-    private String topic;
-    private List<String> synonyms;
+    private final String topic;
+    private final List<String> synonyms;
 
     /**
      * Constructs a new Topic with the specified topic and synonyms.

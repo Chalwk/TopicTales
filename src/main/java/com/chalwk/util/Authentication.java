@@ -8,8 +8,8 @@ import java.io.IOException;
 
 public class Authentication {
     public static String getToken() throws IOException {
-        try (BufferedReader text = new BufferedReader(new FileReader("auth.token"))) {
-            return text.readLine();
+        try (BufferedReader reader = new BufferedReader(new FileReader("auth.token"))) {
+            return reader.readLine();
         }
     }
 }

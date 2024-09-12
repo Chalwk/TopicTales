@@ -8,8 +8,11 @@ import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.jetbrains.annotations.NotNull;
 
+import java.util.Optional;
+
 public class MessageListener extends ListenerAdapter {
 
+    private static final String CHANNEL_ID = "1275265376141447199";
     private final TopicManager topicManager;
 
     public MessageListener(TopicManager topicManager) {
@@ -18,13 +21,7 @@ public class MessageListener extends ListenerAdapter {
 
     @Override
     public void onMessageReceived(@NotNull MessageReceivedEvent event) {
-        String channelID = "1275265376141447199";
-
-        boolean isBot = event.getAuthor().isBot();
-        boolean isCorrectChannel = event.getChannel().getId().equals(channelID);
-        boolean isGameRunning = topicManager.isGameRunning();
-
-        if (!isBot && isCorrectChannel && isGameRunning) {
+        if (!event.getAuthor().isBot() && event.getChannel().getId().equals(CHANNEL_ID) && topicManager.isGameRunning()) {
             handleGuess(event, event.getMessage().getContentRaw());
         }
     }
@@ -33,14 +30,14 @@ public class MessageListener extends ListenerAdapter {
         EmbedBuilder embed = new EmbedBuilder();
         if (topicManager.checkGuess(guess)) {
             topicManager.setGameRunning(false);
-            embed.setTitle("Congratulations!");
-            embed.setDescription("You guessed the topic correctly!");
-            embed.setColor(0x00FF00); // green
+            embed.setTitle("Congratulations!")
+                    .setDescription("You guessed the topic correctly!")
+                    .setColor(0x00FF00); // green
         } else {
-            embed.setTitle("Incorrect Guess");
-            embed.setDescription("Try again!");
-            embed.setColor(0xFF0000); // red
+            embed.setTitle("Incorrect Guess")
+                    .setDescription("Try again!")
+                    .setColor(0xFF0000); // red
         }
-        event.getChannel().sendMessageEmbeds(embed.build()).queue();
+        Optional.of(event.getChannel()).ifPresent(channel -> channel.sendMessageEmbeds(embed.build()).queue());
     }
 }
